@@ -10,3 +10,10 @@ body {
   font-family: Circular,Helvetica,Arial,sans-serif;
  
 }
+#image{
+  height: 28vw;
+  /* width: 100%; */
+}
+#p{
+  font-size: 2vw;
+}
