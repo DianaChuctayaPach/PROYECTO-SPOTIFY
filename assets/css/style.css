@@ -1,0 +1,12 @@
+#logo{
+    height: 2.8vw;
+    margin-top: 1.5vw;
+}
+@font-face {
+  font-family: Circular;
+  src: url('circular-medium.woff2');
+}
+body {
+  font-family: Circular,Helvetica,Arial,sans-serif;
+ 
+}
