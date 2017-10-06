@@ -70,7 +70,7 @@ body {
     text-align: center;
     margin: 0;
     position: relative;
-    overflow: hidden; /*es para poder cortar y k no haya croll abajo
+    overflow: hidden; /*es para poder cortar y k no haya croll abajo*/
   }
   
   .carousel-control.right, .carousel-control.left {
@@ -196,7 +196,6 @@ body {
     padding: 50px 22px 0;
     margin-bottom: 30px;
     background: url('../img/iphone-klein-purple.png') no-repeat;
-    background-size: 50%;
     background-size: cover;
   }
   
@@ -461,4 +460,3 @@ body {
     color: #919496;
     text-decoration: none;
   }
-  
